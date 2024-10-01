@@ -2,6 +2,9 @@
 Case
 ________________________________________________________________
 
+"É igual ao if/else, só que diferente!"
+- Jorginho Pesadelo
+
 '''
 
 puts "Insira um código válido\n\n
